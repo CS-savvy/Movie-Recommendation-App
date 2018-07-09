@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "60331643494",
+    "firebase_url": "https://treecom-a433e.firebaseio.com",
+    "project_id": "treecom-a433e",
+    "storage_bucket": "treecom-a433e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60331643494:android:0bc9d8d2b60c102a",
+        "android_client_info": {
+          "package_name": "com.pro.treecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60331643494-fvanic7k473s14gl1un1h7it8pbli7vr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pro.treecom",
+            "certificate_hash": "5777078669d24ab6dc49bb5acefc9e3f3aa4daa0"
+          }
+        },
+        {
+          "client_id": "60331643494-4l6opm455v5lvcoif61nlnfal6pf5qqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAibY5ZkyGo1XEgUi2WGFBYHpgVMxUv_MQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60331643494-4l6opm455v5lvcoif61nlnfal6pf5qqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
