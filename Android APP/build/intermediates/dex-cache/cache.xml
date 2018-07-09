@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukul\.android\build-cache\9c21c9b152a4df791d16acd290558215ed4a5b7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c59c0f2d17a81a4b60c09388dfaf17c16a17f574">
+        <dex dex="C:\Users\Mukul\AndroidStudioProjects\Treecom\app\build\intermediates\pre-dexed\debug\classes_f7bef98737108eb3c1177d7cb61b5c071dabe38b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mukul\.android\build-cache\1ded6bdb879be3cadff465f74a379bbad836ea52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Users\Mukul\AndroidStudioProjects\Treecom\app\build\intermediates\pre-dexed\debug\classes_bc73b417840e5d93551383689744bb71f06ae803.jar" />
+    </item>
+
+</items>

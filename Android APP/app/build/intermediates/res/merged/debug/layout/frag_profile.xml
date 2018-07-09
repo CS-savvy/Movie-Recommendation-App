@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/nofdfdbdf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="50sp"
+        android:text="You Are Currently Logged In As :"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@color/cardview_light_background" />
+
+    <TextView
+        android:id="@+id/pro_Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100sp"
+        android:layout_marginRight="100sp"
+        android:layout_marginTop="70sp"
+        android:layout_weight="0.03"
+        android:text="Name"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+        android:textColor="@color/cardview_light_background" />
+
+    <Button
+        android:id="@+id/pro_Btn"
+        style="@android:style/Widget.DeviceDefault.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="210dp"
+        android:background="@color/colorAccent"
+        android:text="Log Out"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="30sp" />
+
+</LinearLayout>

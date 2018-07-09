@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_basic_questions.xml",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\src\\main\\res\\menu\\menu_basic_questions.xml"
+    }
+]

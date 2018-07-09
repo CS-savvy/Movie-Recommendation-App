@@ -1,0 +1,4 @@
+#Fri May 04 02:39:18 PDT 2018
+base.0=C\:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

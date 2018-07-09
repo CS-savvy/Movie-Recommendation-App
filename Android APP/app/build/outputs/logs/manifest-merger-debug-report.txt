@@ -1,0 +1,305 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:5:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mukul\.android\build-cache\e4bb882b1caae4a3f8bf650e852e23a07aa9415f\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.0.0] C:\Users\Mukul\.android\build-cache\5c10cd197ba1619523533d692a382b471a9c62ca\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Mukul\.android\build-cache\8f396f530fde45ce28bd2b446a672c3befb5755a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\Mukul\.android\build-cache\6e8e77dc17aba501c25984ee9ba4da1f135541c2\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Mukul\.android\build-cache\57e1bcb3f7146a050ed6b9dfd7b1b8cea87e11c6\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Mukul\.android\build-cache\8deba1b4e7d194d924c34532384004ce7ce675ae\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Mukul\.android\build-cache\511b90662348b97a15726b82ca93b8513865b9da\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Mukul\.android\build-cache\1ded6bdb879be3cadff465f74a379bbad836ea52\output\AndroidManifest.xml:26:5-20
+MERGED from [com.github.sujithkanna:smileyrating:1.6.8] C:\Users\Mukul\.android\build-cache\9c21c9b152a4df791d16acd290558215ed4a5b7c\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mukul\.android\build-cache\fec27ba7a07f99a001378f73882001c7d02919e8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mukul\.android\build-cache\ca2d90de7f34538fe4ff63308b902a827c16e9a6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mukul\.android\build-cache\659720244fa82b1b38ebfffa643336fd0f73ceed\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.0] C:\Users\Mukul\.android\build-cache\ca1e0310d47f42d72319bf2c0c5f9c7c4f482482\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\Mukul\.android\build-cache\e696aee9b310b4d835e3a3554fa3e45d24b9cc12\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\Mukul\.android\build-cache\dff5130ad9bd08123d1b48abed56a4433195edca\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\Mukul\.android\build-cache\84d7678689d1103687a02f597968d76540e7cc07\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Mukul\.android\build-cache\b71d983eeadd2350bc3a27ecdcb5146e579d55e5\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mukul\.android\build-cache\b809888d6c476a6ab45cf1f5daa366bd0d4ba3ec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mukul\.android\build-cache\ff22371a50f84cdd6d07cc8a8d56fe311e542caf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mukul\.android\build-cache\0f8c570a02293f02158bbf4d8cc860f8b8be2184\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mukul\.android\build-cache\77484d4245b0dc206e1edb756fcc73d6ccd2611b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mukul\.android\build-cache\d7746538cc2db675520016cc16bc2ebf11f5034a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mukul\.android\build-cache\94d56771db6e47e9b7370e2929af1f02976bb5e9\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.pro.treecom.SignIn
+ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:theme
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:14:13-60
+	android:name
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:13:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.pro.treecom.BasicQuestions
+ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:21:9-24:59
+	android:label
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:23:13-41
+	android:theme
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:22:13-43
+activity#com.pro.treecom.MainActivity
+ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:25:9-28:59
+	android:label
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:27:13-56
+	android:theme
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml:26:13-41
+uses-sdk
+INJECTED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mukul\.android\build-cache\e4bb882b1caae4a3f8bf650e852e23a07aa9415f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:11.0.0] C:\Users\Mukul\.android\build-cache\5c10cd197ba1619523533d692a382b471a9c62ca\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Mukul\.android\build-cache\8f396f530fde45ce28bd2b446a672c3befb5755a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.0] C:\Users\Mukul\.android\build-cache\ab24f8acb5729181d229c0e86cd017b7f51824ff\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.0] C:\Users\Mukul\.android\build-cache\91270ae66f6bf2477489c5404cd8cc16734ba051\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\Mukul\.android\build-cache\6e8e77dc17aba501c25984ee9ba4da1f135541c2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.0] C:\Users\Mukul\.android\build-cache\aa3da3a34f270911c8867c1c7421e4b7f22ab206\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Mukul\.android\build-cache\57e1bcb3f7146a050ed6b9dfd7b1b8cea87e11c6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.roughike:bottom-bar:1.3.3] C:\Users\Mukul\.android\build-cache\a53b2cb57649a1011348d1ed6ccbf9ef74124656\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Mukul\.android\build-cache\8deba1b4e7d194d924c34532384004ce7ce675ae\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Mukul\.android\build-cache\511b90662348b97a15726b82ca93b8513865b9da\output\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] C:\Users\Mukul\.android\build-cache\77e7a908dd1496e8a9d82be503c858019a855c0b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Mukul\.android\build-cache\c7b22c956ee14dc4710711a7f2ed061c62560624\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.0] C:\Users\Mukul\.android\build-cache\9d8d8cf40b527cbec1e32cff672e2d314fd1510c\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.0] C:\Users\Mukul\.android\build-cache\228f46a4d7f21d4998fa2fbada2aa0a75bf7019a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Mukul\.android\build-cache\1ded6bdb879be3cadff465f74a379bbad836ea52\output\AndroidManifest.xml:20:5-44
+MERGED from [com.github.sujithkanna:smileyrating:1.6.8] C:\Users\Mukul\.android\build-cache\9c21c9b152a4df791d16acd290558215ed4a5b7c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mukul\.android\build-cache\fec27ba7a07f99a001378f73882001c7d02919e8\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mukul\.android\build-cache\ca2d90de7f34538fe4ff63308b902a827c16e9a6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mukul\.android\build-cache\659720244fa82b1b38ebfffa643336fd0f73ceed\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.0] C:\Users\Mukul\.android\build-cache\ca1e0310d47f42d72319bf2c0c5f9c7c4f482482\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\Mukul\.android\build-cache\e696aee9b310b4d835e3a3554fa3e45d24b9cc12\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\Mukul\.android\build-cache\dff5130ad9bd08123d1b48abed56a4433195edca\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\Mukul\.android\build-cache\84d7678689d1103687a02f597968d76540e7cc07\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Mukul\.android\build-cache\b71d983eeadd2350bc3a27ecdcb5146e579d55e5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mukul\.android\build-cache\b809888d6c476a6ab45cf1f5daa366bd0d4ba3ec\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mukul\.android\build-cache\ff22371a50f84cdd6d07cc8a8d56fe311e542caf\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mukul\.android\build-cache\0f8c570a02293f02158bbf4d8cc860f8b8be2184\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mukul\.android\build-cache\77484d4245b0dc206e1edb756fcc73d6ccd2611b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mukul\.android\build-cache\d7746538cc2db675520016cc16bc2ebf11f5034a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mukul\.android\build-cache\94d56771db6e47e9b7370e2929af1f02976bb5e9\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Mukul\.android\build-cache\8deba1b4e7d194d924c34532384004ce7ce675ae\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mukul\AndroidStudioProjects\Treecom\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Mukul\.android\build-cache\8f396f530fde45ce28bd2b446a672c3befb5755a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\Mukul\.android\build-cache\8deba1b4e7d194d924c34532384004ce7ce675ae\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Mukul\.android\build-cache\511b90662348b97a15726b82ca93b8513865b9da\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Mukul\.android\build-cache\c7b22c956ee14dc4710711a7f2ed061c62560624\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Mukul\.android\build-cache\1ded6bdb879be3cadff465f74a379bbad836ea52\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mukul\.android\build-cache\fec27ba7a07f99a001378f73882001c7d02919e8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mukul\.android\build-cache\ca2d90de7f34538fe4ff63308b902a827c16e9a6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mukul\.android\build-cache\659720244fa82b1b38ebfffa643336fd0f73ceed\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mukul\.android\build-cache\b809888d6c476a6ab45cf1f5daa366bd0d4ba3ec\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mukul\.android\build-cache\ff22371a50f84cdd6d07cc8a8d56fe311e542caf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mukul\.android\build-cache\0f8c570a02293f02158bbf4d8cc860f8b8be2184\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mukul\.android\build-cache\77484d4245b0dc206e1edb756fcc73d6ccd2611b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mukul\.android\build-cache\d7746538cc2db675520016cc16bc2ebf11f5034a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mukul\.android\build-cache\94d56771db6e47e9b7370e2929af1f02976bb5e9\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Mukul\.android\build-cache\8f396f530fde45ce28bd2b446a672c3befb5755a\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Mukul\.android\build-cache\8f396f530fde45ce28bd2b446a672c3befb5755a\output\AndroidManifest.xml:23:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\Mukul\.android\build-cache\6e8e77dc17aba501c25984ee9ba4da1f135541c2\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\Mukul\.android\build-cache\6e8e77dc17aba501c25984ee9ba4da1f135541c2\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\Mukul\.android\build-cache\6e8e77dc17aba501c25984ee9ba4da1f135541c2\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\Mukul\.android\build-cache\6e8e77dc17aba501c25984ee9ba4da1f135541c2\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\Mukul\.android\build-cache\6e8e77dc17aba501c25984ee9ba4da1f135541c2\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\Mukul\.android\build-cache\6e8e77dc17aba501c25984ee9ba4da1f135541c2\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\Mukul\.android\build-cache\6e8e77dc17aba501c25984ee9ba4da1f135541c2\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\Mukul\.android\build-cache\6e8e77dc17aba501c25984ee9ba4da1f135541c2\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\Mukul\.android\build-cache\6e8e77dc17aba501c25984ee9ba4da1f135541c2\output\AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Mukul\.android\build-cache\57e1bcb3f7146a050ed6b9dfd7b1b8cea87e11c6\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Mukul\.android\build-cache\57e1bcb3f7146a050ed6b9dfd7b1b8cea87e11c6\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Mukul\.android\build-cache\57e1bcb3f7146a050ed6b9dfd7b1b8cea87e11c6\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Mukul\.android\build-cache\57e1bcb3f7146a050ed6b9dfd7b1b8cea87e11c6\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:0.4.0] C:\Users\Mukul\.android\build-cache\77e7a908dd1496e8a9d82be503c858019a855c0b\output\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\Mukul\.android\build-cache\e696aee9b310b4d835e3a3554fa3e45d24b9cc12\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:0.4.0] C:\Users\Mukul\.android\build-cache\77e7a908dd1496e8a9d82be503c858019a855c0b\output\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\Mukul\.android\build-cache\e696aee9b310b4d835e3a3554fa3e45d24b9cc12\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\Mukul\.android\build-cache\e696aee9b310b4d835e3a3554fa3e45d24b9cc12\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\Mukul\.android\build-cache\e696aee9b310b4d835e3a3554fa3e45d24b9cc12\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\Mukul\.android\build-cache\e696aee9b310b4d835e3a3554fa3e45d24b9cc12\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\Mukul\.android\build-cache\bf0d0e0715a62b8d02682565717fc45273458405\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\Mukul\.android\build-cache\9adeda57beb33e8069e6c57cf9972e6c0f38bb85\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\Mukul\.android\build-cache\dff5130ad9bd08123d1b48abed56a4433195edca\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\Mukul\.android\build-cache\dff5130ad9bd08123d1b48abed56a4433195edca\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\Mukul\.android\build-cache\dff5130ad9bd08123d1b48abed56a4433195edca\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\Mukul\.android\build-cache\dff5130ad9bd08123d1b48abed56a4433195edca\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\Mukul\.android\build-cache\dff5130ad9bd08123d1b48abed56a4433195edca\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Mukul\.android\build-cache\b71d983eeadd2350bc3a27ecdcb5146e579d55e5\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Mukul\.android\build-cache\b71d983eeadd2350bc3a27ecdcb5146e579d55e5\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Mukul\.android\build-cache\b71d983eeadd2350bc3a27ecdcb5146e579d55e5\output\AndroidManifest.xml:20:20-65

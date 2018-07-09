@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Bottombaritemone"
+        android:icon="@mipmap/ic_search_white_24dp"
+        android:title="Your Box" ></item>
+
+    <item android:id="@+id/Bottombaritemtwo"
+        android:icon="@mipmap/ic_favorite_white_24dp"
+        android:title="Trending" ></item>
+
+    <item android:id="@+id/Bottombaritemthree"
+        android:icon="@mipmap/ic_account_circle_white_24dp"
+        android:title="Bookmarks" ></item>
+
+    <item android:id="@+id/Bottombaritemfour"
+        android:icon="@mipmap/ic_info_outline_white_24dp"
+        android:title="Profile" ></item>
+
+</menu>
+

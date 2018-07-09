@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_favorite_white_24dp.png",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_favorite_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_favorite_black_24dp.png",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_account_circle_white_24dp.png",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_account_circle_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_info_outline_white_24dp.png",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_info_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_favorite_border_black_24dp.png",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_search_white_24dp.png",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_call_black_24dp.png",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\Treecom\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_call_black_24dp.png"
+    }
+]
