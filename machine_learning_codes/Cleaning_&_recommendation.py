@@ -388,5 +388,7 @@ dum = my_functions.find_similarities(df, 12, del_sequels = True, verbose = True)
 
 dum = my_functions.find_similarities(df, 2, del_sequels = True, verbose = True)
 
+dum = my_functions.find_similarities(df, 62, del_sequels = True, verbose = True)
+
 
 
