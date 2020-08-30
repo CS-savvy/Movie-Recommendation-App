@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# Movie-Recommendation-App
 It is a movie recommender App which recommends you movie according to your interest and ratings,  I used Content and popularity based filtering which generates movie recommendation using Machine Learning python script running in cloud pushing all  the processed results to the user mobile application.
 
 ## Recommender Engine
