@@ -14,7 +14,9 @@ It is a movie recommender App which recommends you movie according to your inter
 
 <img src="https://github.com/CS-savvy/Movie-Recommendation-App/blob/master/RatingBar.gif?raw=true" width="500">
 
+#### Firebase Database
 
+<img src="https://github.com/CS-savvy/Movie-Recommendation-App/blob/master/DatabaseForApp.png?raw=true" width="500">
 
 ## Recommender Engine
 ___
