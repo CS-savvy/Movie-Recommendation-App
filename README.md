@@ -1,5 +1,20 @@
 # Movie-Recommendation-App
+<p align="center">
+  <img width="800" height="300" src="https://github.com/CS-savvy/Movie-Recommendation-App/blob/master/logo.png?raw=true">
+</p>
 It is a movie recommender App which recommends you movie according to your interest and ratings,  I used Content and popularity based filtering which generates movie recommendation using Machine Learning python script running in cloud pushing all  the processed results to the user mobile application.
+
+## UI sample
+
+|Login|Registration|Recommendations
+|------------|-------------|---------------|
+| <img src="https://github.com/CS-savvy/Movie-Recommendation-App/blob/master/LoginScreen.png?raw=true" width="250"> | <img src="https://github.com/CS-savvy/Movie-Recommendation-App/blob/master/Registration.png?raw=true" width="250"> | <img src="https://github.com/CS-savvy/Movie-Recommendation-App/blob/master/Recommendations.png?raw=true" width="250">
+
+#### Rating Bar
+
+<img src="https://github.com/CS-savvy/Movie-Recommendation-App/blob/master/RatingBar.gif?raw=true" width="500">
+
+
 
 ## Recommender Engine
 ___
