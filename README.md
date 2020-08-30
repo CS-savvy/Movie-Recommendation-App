@@ -14,6 +14,8 @@ It is a movie recommender App which recommends you movie according to your inter
 
 <img src="https://github.com/CS-savvy/Movie-Recommendation-App/blob/master/RatingBar.gif?raw=true" width="500">
 
+credit - https://github.com/sujithkanna/SmileyRating
+
 #### Firebase Database
 
 <img src="https://github.com/CS-savvy/Movie-Recommendation-App/blob/master/DatabaseForApp.png?raw=true" width="500">
